@@ -1,0 +1,501 @@
+order_id,order_date,customer_id,product_name,category,quantity,price,country
+2000,2024-01-12,1015,Wireless Mouse,Electronics,3,25.5,USA
+2001,2024-02-27,1018,Ergonomic Mouse Pad,Accessories,1,18,Australia
+2002,2024-05-19,1012,Webcam HD,Electronics,4,60,India
+2003,2024-01-08,1012,Laptop Stand,Accessories,2,40,Canada
+2004,2024-06-03,1004,External Hard Drive,Electronics,2,120,Australia
+2005,2024-06-15,1090,External Hard Drive,Electronics,4,120,USA
+2006,2024-04-24,1076,24 inch Monitor,Electronics,1,220,Singapore
+2007,2024-02-10,1090,Bluetooth Headphones,Electronics,3,95,UK
+2008,2024-02-09,1028,USB-C Cable,Accessories,1,12,India
+2009,2024-04-07,1013,USB-C Cable,Accessories,3,12,Canada
+2010,2024-03-08,1006,Ergonomic Mouse Pad,Accessories,4,18,Canada
+2011,2024-02-01,1049,Gaming Keyboard,Electronics,5,70,UK
+2012,2024-06-09,1080,USB-C Cable,Accessories,5,12,USA
+2013,2024-06-29,1009,Wireless Mouse,Electronics,2,25.5,Singapore
+2014,2024-03-15,1011,Laptop Stand,Accessories,1,40,Germany
+2015,2024-03-12,1059,Mechanical Keyboard,Electronics,3,110,USA
+2016,2024-04-04,1046,Laptop Stand,Accessories,3,40,Australia
+2017,2024-06-23,1083,Gaming Keyboard,Electronics,5,70,Australia
+2018,2024-02-13,1069,Ergonomic Mouse Pad,Accessories,2,18,USA
+2019,2024-04-28,1049,24 inch Monitor,Electronics,5,220,USA
+2020,2024-06-24,1042,Wireless Mouse,Electronics,2,25.5,Singapore
+2021,2024-01-09,1041,Bluetooth Headphones,Electronics,3,95,India
+2022,2024-02-24,1073,Ergonomic Mouse Pad,Accessories,3,18,USA
+2023,2024-06-16,1064,Bluetooth Headphones,Electronics,4,95,USA
+2024,2024-03-08,1018,Laptop Stand,Accessories,5,40,Canada
+2025,2024-03-08,1096,Webcam HD,Electronics,4,60,Canada
+2026,2024-04-12,1047,Laptop Stand,Accessories,2,40,Canada
+2027,2024-05-06,1012,Wireless Mouse,Electronics,1,25.5,USA
+2028,2024-06-09,1021,Mechanical Keyboard,Electronics,4,110,Canada
+2029,2024-01-17,1050,Bluetooth Headphones,Electronics,5,95,Germany
+2030,2024-05-15,1033,External Hard Drive,Electronics,1,120,Australia
+2031,2024-01-30,1088,External Hard Drive,Electronics,3,120,Singapore
+2032,2024-06-13,1044,Gaming Keyboard,Electronics,3,70,Germany
+2033,2024-02-10,1059,Wireless Mouse,Electronics,3,25.5,Canada
+2034,2024-02-15,1065,Gaming Keyboard,Electronics,3,70,Singapore
+2035,2024-06-12,1065,Webcam HD,Electronics,2,60,USA
+2036,2024-04-05,1098,Office Chair,Furniture,5,150,Singapore
+2037,2024-05-15,1001,Webcam HD,Electronics,3,60,Germany
+2038,2024-01-05,1015,USB-C Cable,Accessories,3,12,USA
+2039,2024-01-15,1031,Webcam HD,Electronics,1,60,India
+2040,2024-05-04,1009,External Hard Drive,Electronics,2,120,USA
+2041,2024-06-17,1061,External Hard Drive,Electronics,2,120,UK
+2042,2024-05-15,1078,Bluetooth Headphones,Electronics,2,95,Canada
+2043,2024-06-25,1026,Ergonomic Mouse Pad,Accessories,3,18,Germany
+2044,2024-06-20,1084,USB-C Cable,Accessories,4,12,Canada
+2045,2024-04-25,1016,Laptop Stand,Accessories,2,40,India
+2046,2024-03-27,1003,Webcam HD,Electronics,5,60,USA
+2047,2024-05-30,1029,Wireless Mouse,Electronics,1,25.5,Australia
+2048,2024-06-10,1008,Laptop Stand,Accessories,1,40,India
+2049,2024-03-25,1010,External Hard Drive,Electronics,2,120,UK
+2050,2024-06-20,1063,Laptop Stand,Accessories,5,40,USA
+2051,2024-05-26,1074,Desk Lamp,Furniture,2,35,Singapore
+2052,2024-05-01,1053,Laptop Stand,Accessories,1,40,India
+2053,2024-06-17,1056,USB-C Cable,Accessories,4,12,Germany
+2054,2024-04-29,1094,Wireless Mouse,Electronics,1,25.5,India
+2055,2024-04-13,1094,USB-C Cable,Accessories,1,12,USA
+2056,2024-02-19,1025,External Hard Drive,Electronics,4,120,USA
+2057,2024-04-18,1024,24 inch Monitor,Electronics,4,220,USA
+2058,2024-01-20,1057,External Hard Drive,Electronics,1,120,India
+2059,2024-06-15,1070,Wireless Mouse,Electronics,1,25.5,Singapore
+2060,2024-03-01,1022,Bluetooth Headphones,Electronics,4,95,Germany
+2061,2024-02-24,1052,Wireless Mouse,Electronics,2,25.5,Germany
+2062,2024-01-01,1050,24 inch Monitor,Electronics,4,220,UK
+2063,2024-04-18,1090,Ergonomic Mouse Pad,Accessories,5,18,Australia
+2064,2024-05-04,1020,Laptop Stand,Accessories,3,40,USA
+2065,2024-01-15,1075,Ergonomic Mouse Pad,Accessories,5,18,India
+2066,2024-03-21,1008,Wireless Mouse,Electronics,5,25.5,Germany
+2067,2024-05-08,1068,Office Chair,Furniture,1,150,Canada
+2068,2024-01-21,1024,Gaming Keyboard,Electronics,5,70,India
+2069,2024-06-21,1031,Bluetooth Headphones,Electronics,1,95,Canada
+2070,2024-03-04,1075,Webcam HD,Electronics,1,60,Canada
+2071,2024-01-21,1054,Mechanical Keyboard,Electronics,5,110,Canada
+2072,2024-05-13,1041,24 inch Monitor,Electronics,2,220,Australia
+2073,2024-03-21,1031,24 inch Monitor,Electronics,4,220,USA
+2074,2024-06-20,1083,24 inch Monitor,Electronics,4,220,UK
+2075,2024-01-19,1002,Desk Lamp,Furniture,5,35,Canada
+2076,2024-01-26,1010,External Hard Drive,Electronics,2,120,Canada
+2077,2024-03-08,1017,USB-C Cable,Accessories,1,12,USA
+2078,2024-04-04,1037,Office Chair,Furniture,4,150,Singapore
+2079,2024-05-19,1091,24 inch Monitor,Electronics,5,220,Singapore
+2080,2024-06-16,1068,Wireless Mouse,Electronics,5,25.5,UK
+2081,2024-06-18,1014,Office Chair,Furniture,3,150,India
+2082,2024-01-28,1096,External Hard Drive,Electronics,2,120,UK
+2083,2024-03-13,1078,Laptop Stand,Accessories,3,40,USA
+2084,2024-06-24,1082,24 inch Monitor,Electronics,5,220,Germany
+2085,2024-03-05,1007,Gaming Keyboard,Electronics,4,70,Singapore
+2086,2024-03-11,1006,Wireless Mouse,Electronics,3,25.5,Singapore
+2087,2024-02-03,1082,24 inch Monitor,Electronics,2,220,Australia
+2088,2024-04-23,1071,Ergonomic Mouse Pad,Accessories,4,18,Canada
+2089,2024-01-03,1015,Gaming Keyboard,Electronics,2,70,Canada
+2090,2024-01-10,1048,Webcam HD,Electronics,5,60,USA
+2091,2024-04-20,1017,Wireless Mouse,Electronics,3,25.5,UK
+2092,2024-01-11,1046,Laptop Stand,Accessories,2,40,Australia
+2093,2024-01-27,1046,External Hard Drive,Electronics,4,120,Canada
+2094,2024-02-09,1031,Office Chair,Furniture,2,150,Germany
+2095,2024-01-07,1023,Ergonomic Mouse Pad,Accessories,3,18,Singapore
+2096,2024-04-15,1086,Ergonomic Mouse Pad,Accessories,2,18,UK
+2097,2024-02-10,1090,Gaming Keyboard,Electronics,4,70,Singapore
+2098,2024-01-10,1061,Laptop Stand,Accessories,2,40,Singapore
+2099,2024-04-27,1045,24 inch Monitor,Electronics,2,220,USA
+2100,2024-01-07,1085,Laptop Stand,Accessories,4,40,UK
+2101,2024-03-12,1009,24 inch Monitor,Electronics,3,220,Australia
+2102,2024-05-10,1052,Mechanical Keyboard,Electronics,5,110,UK
+2103,2024-01-08,1015,24 inch Monitor,Electronics,2,220,Canada
+2104,2024-03-08,1005,Gaming Keyboard,Electronics,5,70,Germany
+2105,2024-03-29,1094,USB-C Cable,Accessories,4,12,Canada
+2106,2024-05-10,1015,Bluetooth Headphones,Electronics,5,95,USA
+2107,2024-03-06,1006,Ergonomic Mouse Pad,Accessories,4,18,India
+2108,2024-05-13,1069,Mechanical Keyboard,Electronics,2,110,UK
+2109,2024-04-20,1009,Mechanical Keyboard,Electronics,3,110,Canada
+2110,2024-03-21,1085,Gaming Keyboard,Electronics,3,70,Canada
+2111,2024-03-20,1086,Bluetooth Headphones,Electronics,3,95,Germany
+2112,2024-06-27,1038,External Hard Drive,Electronics,2,120,USA
+2113,2024-04-17,1086,Bluetooth Headphones,Electronics,2,95,Canada
+2114,2024-05-25,1039,Bluetooth Headphones,Electronics,5,95,Singapore
+2115,2024-01-01,1039,24 inch Monitor,Electronics,2,220,Germany
+2116,2024-05-28,1078,Mechanical Keyboard,Electronics,3,110,Germany
+2117,2024-04-23,1057,Mechanical Keyboard,Electronics,2,110,Canada
+2118,2024-05-01,1095,Office Chair,Furniture,1,150,UK
+2119,2024-05-11,1085,Mechanical Keyboard,Electronics,5,110,UK
+2120,2024-01-24,1097,Laptop Stand,Accessories,3,40,USA
+2121,2024-02-20,1019,Wireless Mouse,Electronics,1,25.5,USA
+2122,2024-05-01,1079,Gaming Keyboard,Electronics,4,70,Germany
+2123,2024-06-10,1074,Laptop Stand,Accessories,4,40,Germany
+2124,2024-04-12,1032,Office Chair,Furniture,1,150,Singapore
+2125,2024-01-28,1100,Bluetooth Headphones,Electronics,2,95,USA
+2126,2024-06-27,1067,Desk Lamp,Furniture,1,35,Canada
+2127,2024-03-04,1016,Desk Lamp,Furniture,2,35,Singapore
+2128,2024-04-28,1086,External Hard Drive,Electronics,5,120,Canada
+2129,2024-03-22,1097,Desk Lamp,Furniture,5,35,Singapore
+2130,2024-05-09,1055,External Hard Drive,Electronics,4,120,USA
+2131,2024-05-01,1058,24 inch Monitor,Electronics,2,220,Singapore
+2132,2024-06-12,1036,External Hard Drive,Electronics,4,120,Australia
+2133,2024-03-02,1036,Desk Lamp,Furniture,1,35,Australia
+2134,2024-03-14,1031,24 inch Monitor,Electronics,3,220,UK
+2135,2024-05-18,1011,Office Chair,Furniture,2,150,USA
+2136,2024-04-08,1089,Office Chair,Furniture,2,150,India
+2137,2024-04-16,1053,USB-C Cable,Accessories,5,12,Germany
+2138,2024-04-16,1008,Laptop Stand,Accessories,4,40,Germany
+2139,2024-05-29,1090,Wireless Mouse,Electronics,5,25.5,Germany
+2140,2024-05-02,1001,USB-C Cable,Accessories,3,12,Singapore
+2141,2024-04-09,1054,External Hard Drive,Electronics,5,120,Singapore
+2142,2024-06-03,1029,Desk Lamp,Furniture,2,35,UK
+2143,2024-04-21,1063,Wireless Mouse,Electronics,4,25.5,UK
+2144,2024-06-20,1087,Bluetooth Headphones,Electronics,2,95,Singapore
+2145,2024-04-29,1017,Webcam HD,Electronics,5,60,India
+2146,2024-04-10,1076,Webcam HD,Electronics,1,60,India
+2147,2024-06-13,1055,Office Chair,Furniture,4,150,USA
+2148,2024-01-13,1034,Bluetooth Headphones,Electronics,3,95,USA
+2149,2024-04-26,1042,USB-C Cable,Accessories,4,12,UK
+2150,2024-04-17,1033,Gaming Keyboard,Electronics,4,70,India
+2151,2024-05-18,1007,USB-C Cable,Accessories,2,12,Australia
+2152,2024-01-18,1100,Mechanical Keyboard,Electronics,1,110,Singapore
+2153,2024-01-08,1032,Laptop Stand,Accessories,1,40,Canada
+2154,2024-02-09,1031,Office Chair,Furniture,4,150,Australia
+2155,2024-01-30,1073,Laptop Stand,Accessories,4,40,Australia
+2156,2024-03-06,1099,USB-C Cable,Accessories,2,12,Canada
+2157,2024-06-04,1096,Ergonomic Mouse Pad,Accessories,1,18,Singapore
+2158,2024-02-11,1040,Gaming Keyboard,Electronics,5,70,India
+2159,2024-03-20,1074,Mechanical Keyboard,Electronics,4,110,Germany
+2160,2024-02-20,1010,Webcam HD,Electronics,2,60,India
+2161,2024-06-27,1099,24 inch Monitor,Electronics,5,220,Singapore
+2162,2024-01-31,1073,Wireless Mouse,Electronics,3,25.5,Canada
+2163,2024-04-19,1085,USB-C Cable,Accessories,1,12,Canada
+2164,2024-06-14,1044,Wireless Mouse,Electronics,4,25.5,Singapore
+2165,2024-05-05,1014,Bluetooth Headphones,Electronics,3,95,Australia
+2166,2024-04-27,1091,Office Chair,Furniture,4,150,USA
+2167,2024-05-13,1084,24 inch Monitor,Electronics,5,220,Singapore
+2168,2024-05-17,1100,Desk Lamp,Furniture,4,35,Germany
+2169,2024-05-31,1035,USB-C Cable,Accessories,2,12,Singapore
+2170,2024-01-23,1036,Desk Lamp,Furniture,2,35,Singapore
+2171,2024-04-28,1073,Webcam HD,Electronics,4,60,UK
+2172,2024-01-08,1064,USB-C Cable,Accessories,2,12,Germany
+2173,2024-02-24,1046,24 inch Monitor,Electronics,3,220,UK
+2174,2024-06-01,1090,24 inch Monitor,Electronics,5,220,India
+2175,2024-05-12,1025,Gaming Keyboard,Electronics,2,70,Australia
+2176,2024-04-14,1063,External Hard Drive,Electronics,2,120,Australia
+2177,2024-05-01,1083,Ergonomic Mouse Pad,Accessories,4,18,Germany
+2178,2024-01-05,1012,24 inch Monitor,Electronics,2,220,Germany
+2179,2024-06-26,1032,24 inch Monitor,Electronics,5,220,UK
+2180,2024-05-01,1071,External Hard Drive,Electronics,3,120,Germany
+2181,2024-05-20,1043,USB-C Cable,Accessories,4,12,UK
+2182,2024-03-19,1033,Laptop Stand,Accessories,1,40,Australia
+2183,2024-02-19,1041,Gaming Keyboard,Electronics,5,70,Singapore
+2184,2024-06-25,1024,Laptop Stand,Accessories,2,40,Australia
+2185,2024-05-03,1036,Ergonomic Mouse Pad,Accessories,5,18,Singapore
+2186,2024-05-14,1077,24 inch Monitor,Electronics,1,220,Singapore
+2187,2024-02-19,1038,Laptop Stand,Accessories,3,40,USA
+2188,2024-03-18,1002,Ergonomic Mouse Pad,Accessories,5,18,USA
+2189,2024-03-11,1006,Wireless Mouse,Electronics,5,25.5,UK
+2190,2024-06-27,1017,Mechanical Keyboard,Electronics,4,110,India
+2191,2024-01-04,1074,24 inch Monitor,Electronics,4,220,Germany
+2192,2024-04-22,1044,Office Chair,Furniture,1,150,UK
+2193,2024-05-02,1015,Gaming Keyboard,Electronics,4,70,Germany
+2194,2024-01-19,1074,Mechanical Keyboard,Electronics,1,110,USA
+2195,2024-02-08,1073,24 inch Monitor,Electronics,1,220,USA
+2196,2024-01-31,1072,Bluetooth Headphones,Electronics,5,95,Canada
+2197,2024-06-07,1029,External Hard Drive,Electronics,4,120,Germany
+2198,2024-04-23,1039,Webcam HD,Electronics,4,60,UK
+2199,2024-05-25,1080,Wireless Mouse,Electronics,5,25.5,Australia
+2200,2024-01-26,1098,Laptop Stand,Accessories,2,40,UK
+2201,2024-06-18,1011,Office Chair,Furniture,2,150,USA
+2202,2024-05-21,1010,Office Chair,Furniture,1,150,Germany
+2203,2024-04-25,1089,Webcam HD,Electronics,4,60,UK
+2204,2024-01-09,1030,24 inch Monitor,Electronics,3,220,Australia
+2205,2024-04-26,1010,Mechanical Keyboard,Electronics,2,110,UK
+2206,2024-06-09,1076,Mechanical Keyboard,Electronics,2,110,Germany
+2207,2024-01-30,1070,Laptop Stand,Accessories,2,40,UK
+2208,2024-02-06,1010,Wireless Mouse,Electronics,2,25.5,Singapore
+2209,2024-03-19,1077,Ergonomic Mouse Pad,Accessories,5,18,UK
+2210,2024-04-22,1016,Desk Lamp,Furniture,3,35,Australia
+2211,2024-04-13,1035,External Hard Drive,Electronics,5,120,Germany
+2212,2024-04-22,1011,Webcam HD,Electronics,1,60,Germany
+2213,2024-03-23,1078,24 inch Monitor,Electronics,1,220,India
+2214,2024-02-28,1087,Webcam HD,Electronics,5,60,India
+2215,2024-06-21,1035,Webcam HD,Electronics,1,60,Singapore
+2216,2024-02-14,1061,External Hard Drive,Electronics,4,120,UK
+2217,2024-02-16,1075,Bluetooth Headphones,Electronics,4,95,India
+2218,2024-04-30,1045,Bluetooth Headphones,Electronics,3,95,UK
+2219,2024-06-20,1014,Office Chair,Furniture,3,150,Germany
+2220,2024-06-26,1064,24 inch Monitor,Electronics,4,220,Singapore
+2221,2024-05-20,1005,Desk Lamp,Furniture,1,35,UK
+2222,2024-03-05,1042,Gaming Keyboard,Electronics,4,70,Singapore
+2223,2024-05-11,1001,Mechanical Keyboard,Electronics,5,110,Germany
+2224,2024-04-15,1007,Laptop Stand,Accessories,5,40,UK
+2225,2024-06-08,1097,Desk Lamp,Furniture,4,35,Singapore
+2226,2024-01-14,1027,24 inch Monitor,Electronics,5,220,USA
+2227,2024-03-14,1057,Ergonomic Mouse Pad,Accessories,4,18,India
+2228,2024-01-08,1081,Webcam HD,Electronics,2,60,Australia
+2229,2024-02-10,1040,External Hard Drive,Electronics,1,120,Canada
+2230,2024-04-14,1012,Laptop Stand,Accessories,1,40,Germany
+2231,2024-01-31,1083,Office Chair,Furniture,4,150,Australia
+2232,2024-03-15,1066,Ergonomic Mouse Pad,Accessories,3,18,Germany
+2233,2024-05-03,1061,Laptop Stand,Accessories,4,40,Canada
+2234,2024-02-07,1050,Laptop Stand,Accessories,5,40,Canada
+2235,2024-02-04,1009,24 inch Monitor,Electronics,4,220,UK
+2236,2024-05-09,1035,Wireless Mouse,Electronics,3,25.5,Australia
+2237,2024-03-17,1076,Webcam HD,Electronics,4,60,Singapore
+2238,2024-02-08,1058,External Hard Drive,Electronics,4,120,UK
+2239,2024-03-26,1071,External Hard Drive,Electronics,4,120,Germany
+2240,2024-03-23,1025,Ergonomic Mouse Pad,Accessories,2,18,Canada
+2241,2024-04-08,1030,Bluetooth Headphones,Electronics,1,95,UK
+2242,2024-05-01,1091,Bluetooth Headphones,Electronics,4,95,Australia
+2243,2024-06-15,1020,Desk Lamp,Furniture,1,35,USA
+2244,2024-05-08,1076,USB-C Cable,Accessories,1,12,Singapore
+2245,2024-04-22,1013,External Hard Drive,Electronics,4,120,India
+2246,2024-02-06,1053,Mechanical Keyboard,Electronics,2,110,India
+2247,2024-04-30,1034,USB-C Cable,Accessories,5,12,Australia
+2248,2024-04-11,1084,Gaming Keyboard,Electronics,3,70,Singapore
+2249,2024-06-21,1069,Bluetooth Headphones,Electronics,3,95,Australia
+2250,2024-05-04,1070,Wireless Mouse,Electronics,5,25.5,India
+2251,2024-03-01,1081,Mechanical Keyboard,Electronics,3,110,USA
+2252,2024-01-24,1056,Gaming Keyboard,Electronics,1,70,Germany
+2253,2024-02-12,1089,24 inch Monitor,Electronics,1,220,India
+2254,2024-03-24,1008,24 inch Monitor,Electronics,3,220,UK
+2255,2024-04-20,1019,Laptop Stand,Accessories,5,40,Germany
+2256,2024-05-24,1088,Office Chair,Furniture,2,150,USA
+2257,2024-01-21,1079,Bluetooth Headphones,Electronics,5,95,Australia
+2258,2024-03-02,1064,Webcam HD,Electronics,2,60,USA
+2259,2024-04-28,1082,24 inch Monitor,Electronics,4,220,UK
+2260,2024-06-19,1002,Desk Lamp,Furniture,3,35,Australia
+2261,2024-05-19,1021,Gaming Keyboard,Electronics,4,70,UK
+2262,2024-05-30,1039,Mechanical Keyboard,Electronics,4,110,Australia
+2263,2024-03-05,1059,24 inch Monitor,Electronics,2,220,Germany
+2264,2024-05-03,1014,Laptop Stand,Accessories,4,40,Canada
+2265,2024-04-01,1074,24 inch Monitor,Electronics,3,220,India
+2266,2024-06-17,1051,24 inch Monitor,Electronics,1,220,Canada
+2267,2024-06-24,1100,Ergonomic Mouse Pad,Accessories,1,18,Canada
+2268,2024-05-07,1037,Laptop Stand,Accessories,5,40,Singapore
+2269,2024-03-31,1029,Mechanical Keyboard,Electronics,2,110,Canada
+2270,2024-03-05,1087,Ergonomic Mouse Pad,Accessories,2,18,Australia
+2271,2024-01-25,1081,Mechanical Keyboard,Electronics,1,110,UK
+2272,2024-04-22,1005,Webcam HD,Electronics,3,60,Australia
+2273,2024-02-03,1012,24 inch Monitor,Electronics,3,220,Australia
+2274,2024-04-16,1023,Laptop Stand,Accessories,2,40,Singapore
+2275,2024-05-18,1047,External Hard Drive,Electronics,5,120,UK
+2276,2024-02-12,1033,Desk Lamp,Furniture,3,35,Australia
+2277,2024-03-27,1015,Desk Lamp,Furniture,1,35,USA
+2278,2024-02-27,1087,Ergonomic Mouse Pad,Accessories,4,18,Singapore
+2279,2024-05-22,1047,Gaming Keyboard,Electronics,4,70,India
+2280,2024-03-08,1069,Gaming Keyboard,Electronics,4,70,UK
+2281,2024-06-21,1096,Mechanical Keyboard,Electronics,3,110,Canada
+2282,2024-04-07,1082,USB-C Cable,Accessories,1,12,Australia
+2283,2024-02-29,1061,Wireless Mouse,Electronics,5,25.5,Canada
+2284,2024-03-24,1079,Laptop Stand,Accessories,1,40,Australia
+2285,2024-04-28,1090,24 inch Monitor,Electronics,4,220,India
+2286,2024-02-05,1006,Wireless Mouse,Electronics,3,25.5,Germany
+2287,2024-01-30,1013,Laptop Stand,Accessories,5,40,USA
+2288,2024-04-09,1059,USB-C Cable,Accessories,5,12,Germany
+2289,2024-05-30,1096,Ergonomic Mouse Pad,Accessories,2,18,Germany
+2290,2024-06-16,1013,Desk Lamp,Furniture,5,35,Germany
+2291,2024-03-12,1005,Ergonomic Mouse Pad,Accessories,3,18,USA
+2292,2024-04-23,1057,Laptop Stand,Accessories,3,40,India
+2293,2024-06-24,1048,External Hard Drive,Electronics,3,120,India
+2294,2024-04-11,1036,Laptop Stand,Accessories,1,40,Singapore
+2295,2024-04-26,1012,Mechanical Keyboard,Electronics,2,110,Australia
+2296,2024-06-12,1077,Wireless Mouse,Electronics,1,25.5,Singapore
+2297,2024-03-26,1032,Office Chair,Furniture,5,150,USA
+2298,2024-01-18,1098,External Hard Drive,Electronics,2,120,Canada
+2299,2024-02-25,1030,USB-C Cable,Accessories,2,12,Singapore
+2300,2024-06-01,1001,24 inch Monitor,Electronics,2,220,USA
+2301,2024-05-18,1033,Office Chair,Furniture,1,150,Australia
+2302,2024-01-07,1017,Wireless Mouse,Electronics,3,25.5,Singapore
+2303,2024-03-01,1076,USB-C Cable,Accessories,1,12,USA
+2304,2024-03-08,1007,Office Chair,Furniture,4,150,Canada
+2305,2024-01-30,1096,Gaming Keyboard,Electronics,4,70,Germany
+2306,2024-04-02,1066,Webcam HD,Electronics,1,60,Germany
+2307,2024-05-08,1029,Webcam HD,Electronics,1,60,Australia
+2308,2024-06-17,1067,24 inch Monitor,Electronics,4,220,Australia
+2309,2024-01-08,1008,Desk Lamp,Furniture,4,35,Germany
+2310,2024-06-24,1014,Desk Lamp,Furniture,4,35,India
+2311,2024-01-21,1042,Webcam HD,Electronics,2,60,India
+2312,2024-02-02,1036,Webcam HD,Electronics,5,60,Canada
+2313,2024-03-24,1049,Webcam HD,Electronics,5,60,UK
+2314,2024-04-26,1065,Webcam HD,Electronics,4,60,India
+2315,2024-06-28,1015,Mechanical Keyboard,Electronics,5,110,Australia
+2316,2024-02-25,1056,Desk Lamp,Furniture,2,35,Germany
+2317,2024-03-27,1059,Bluetooth Headphones,Electronics,4,95,Australia
+2318,2024-01-25,1041,Bluetooth Headphones,Electronics,3,95,Australia
+2319,2024-03-06,1048,Office Chair,Furniture,4,150,India
+2320,2024-01-24,1011,Gaming Keyboard,Electronics,4,70,India
+2321,2024-04-05,1017,External Hard Drive,Electronics,1,120,Canada
+2322,2024-05-23,1072,USB-C Cable,Accessories,1,12,Germany
+2323,2024-03-31,1086,Bluetooth Headphones,Electronics,1,95,UK
+2324,2024-06-02,1040,USB-C Cable,Accessories,1,12,Canada
+2325,2024-05-09,1028,Office Chair,Furniture,4,150,USA
+2326,2024-01-28,1045,External Hard Drive,Electronics,3,120,India
+2327,2024-03-12,1074,Laptop Stand,Accessories,4,40,Singapore
+2328,2024-05-23,1099,Webcam HD,Electronics,5,60,Australia
+2329,2024-06-13,1072,Wireless Mouse,Electronics,5,25.5,Australia
+2330,2024-06-26,1035,Wireless Mouse,Electronics,2,25.5,UK
+2331,2024-06-28,1098,24 inch Monitor,Electronics,3,220,UK
+2332,2024-01-02,1024,Office Chair,Furniture,5,150,Australia
+2333,2024-04-12,1009,Office Chair,Furniture,1,150,India
+2334,2024-05-15,1028,Bluetooth Headphones,Electronics,4,95,Germany
+2335,2024-03-28,1021,USB-C Cable,Accessories,3,12,Australia
+2336,2024-03-24,1100,Webcam HD,Electronics,5,60,India
+2337,2024-01-14,1020,Office Chair,Furniture,5,150,India
+2338,2024-06-21,1011,24 inch Monitor,Electronics,4,220,Australia
+2339,2024-04-18,1063,Webcam HD,Electronics,4,60,Germany
+2340,2024-03-10,1028,External Hard Drive,Electronics,1,120,UK
+2341,2024-04-20,1015,24 inch Monitor,Electronics,5,220,Germany
+2342,2024-05-14,1086,24 inch Monitor,Electronics,1,220,USA
+2343,2024-04-11,1077,Wireless Mouse,Electronics,1,25.5,USA
+2344,2024-03-18,1028,Office Chair,Furniture,3,150,UK
+2345,2024-03-24,1016,Wireless Mouse,Electronics,4,25.5,Australia
+2346,2024-04-20,1023,Office Chair,Furniture,4,150,Canada
+2347,2024-06-29,1030,External Hard Drive,Electronics,5,120,Singapore
+2348,2024-06-20,1046,Gaming Keyboard,Electronics,4,70,Singapore
+2349,2024-01-11,1056,Wireless Mouse,Electronics,4,25.5,India
+2350,2024-03-21,1074,Bluetooth Headphones,Electronics,5,95,Germany
+2351,2024-06-12,1054,24 inch Monitor,Electronics,1,220,Germany
+2352,2024-01-06,1042,Office Chair,Furniture,5,150,Germany
+2353,2024-06-25,1047,Gaming Keyboard,Electronics,4,70,Singapore
+2354,2024-01-28,1032,Bluetooth Headphones,Electronics,5,95,Germany
+2355,2024-05-14,1011,Bluetooth Headphones,Electronics,3,95,Australia
+2356,2024-03-27,1029,USB-C Cable,Accessories,2,12,India
+2357,2024-05-10,1082,Gaming Keyboard,Electronics,5,70,Canada
+2358,2024-02-19,1100,USB-C Cable,Accessories,3,12,Australia
+2359,2024-06-14,1019,Laptop Stand,Accessories,1,40,USA
+2360,2024-03-06,1026,Office Chair,Furniture,5,150,USA
+2361,2024-06-16,1010,Office Chair,Furniture,4,150,Germany
+2362,2024-05-24,1098,Webcam HD,Electronics,4,60,Australia
+2363,2024-05-24,1083,Mechanical Keyboard,Electronics,5,110,UK
+2364,2024-06-09,1041,Office Chair,Furniture,4,150,India
+2365,2024-04-30,1057,Mechanical Keyboard,Electronics,3,110,Singapore
+2366,2024-03-11,1076,Wireless Mouse,Electronics,3,25.5,Canada
+2367,2024-01-19,1040,Desk Lamp,Furniture,4,35,India
+2368,2024-01-15,1048,24 inch Monitor,Electronics,1,220,Australia
+2369,2024-01-24,1079,Webcam HD,Electronics,5,60,Germany
+2370,2024-04-28,1075,External Hard Drive,Electronics,1,120,Germany
+2371,2024-05-26,1084,Laptop Stand,Accessories,3,40,Canada
+2372,2024-05-01,1065,Office Chair,Furniture,1,150,Germany
+2373,2024-01-27,1044,Ergonomic Mouse Pad,Accessories,1,18,Canada
+2374,2024-06-14,1023,Wireless Mouse,Electronics,2,25.5,Australia
+2375,2024-04-22,1057,External Hard Drive,Electronics,5,120,Canada
+2376,2024-02-10,1047,USB-C Cable,Accessories,3,12,Germany
+2377,2024-04-14,1100,USB-C Cable,Accessories,5,12,India
+2378,2024-06-10,1083,USB-C Cable,Accessories,1,12,UK
+2379,2024-01-25,1072,Mechanical Keyboard,Electronics,4,110,UK
+2380,2024-03-05,1093,Mechanical Keyboard,Electronics,5,110,Singapore
+2381,2024-02-08,1043,Gaming Keyboard,Electronics,5,70,Australia
+2382,2024-02-06,1045,24 inch Monitor,Electronics,4,220,USA
+2383,2024-06-01,1091,Gaming Keyboard,Electronics,3,70,Canada
+2384,2024-04-06,1083,USB-C Cable,Accessories,2,12,Australia
+2385,2024-06-28,1095,Mechanical Keyboard,Electronics,5,110,India
+2386,2024-06-14,1086,Bluetooth Headphones,Electronics,5,95,UK
+2387,2024-01-05,1047,24 inch Monitor,Electronics,2,220,USA
+2388,2024-03-28,1099,Desk Lamp,Furniture,2,35,USA
+2389,2024-02-05,1020,Gaming Keyboard,Electronics,3,70,Singapore
+2390,2024-01-26,1065,External Hard Drive,Electronics,5,120,India
+2391,2024-06-18,1044,Webcam HD,Electronics,2,60,Canada
+2392,2024-04-06,1020,Office Chair,Furniture,2,150,Singapore
+2393,2024-06-26,1099,Webcam HD,Electronics,2,60,Australia
+2394,2024-04-22,1006,Bluetooth Headphones,Electronics,3,95,Australia
+2395,2024-03-01,1057,Webcam HD,Electronics,3,60,Singapore
+2396,2024-04-24,1030,External Hard Drive,Electronics,2,120,UK
+2397,2024-04-30,1025,USB-C Cable,Accessories,5,12,Germany
+2398,2024-04-28,1099,24 inch Monitor,Electronics,4,220,Canada
+2399,2024-05-15,1054,Office Chair,Furniture,2,150,Singapore
+2400,2024-06-03,1018,24 inch Monitor,Electronics,1,220,Australia
+2401,2024-05-03,1048,External Hard Drive,Electronics,1,120,Australia
+2402,2024-05-12,1016,24 inch Monitor,Electronics,1,220,Singapore
+2403,2024-02-11,1035,Desk Lamp,Furniture,5,35,USA
+2404,2024-04-21,1012,Laptop Stand,Accessories,4,40,UK
+2405,2024-01-07,1054,Wireless Mouse,Electronics,4,25.5,Canada
+2406,2024-04-05,1031,Bluetooth Headphones,Electronics,1,95,UK
+2407,2024-02-27,1004,USB-C Cable,Accessories,1,12,Singapore
+2408,2024-06-15,1043,Office Chair,Furniture,2,150,India
+2409,2024-03-14,1061,Ergonomic Mouse Pad,Accessories,2,18,Singapore
+2410,2024-06-29,1061,Desk Lamp,Furniture,5,35,India
+2411,2024-01-21,1003,24 inch Monitor,Electronics,2,220,Singapore
+2412,2024-02-08,1071,Ergonomic Mouse Pad,Accessories,5,18,Canada
+2413,2024-04-18,1015,24 inch Monitor,Electronics,2,220,UK
+2414,2024-02-01,1007,Laptop Stand,Accessories,4,40,Australia
+2415,2024-06-08,1059,Gaming Keyboard,Electronics,1,70,Singapore
+2416,2024-05-07,1077,External Hard Drive,Electronics,1,120,Australia
+2417,2024-05-11,1074,Laptop Stand,Accessories,2,40,UK
+2418,2024-04-19,1001,Webcam HD,Electronics,3,60,USA
+2419,2024-05-26,1054,Office Chair,Furniture,1,150,Canada
+2420,2024-04-02,1009,External Hard Drive,Electronics,5,120,Canada
+2421,2024-05-09,1071,Wireless Mouse,Electronics,4,25.5,Singapore
+2422,2024-04-30,1006,Mechanical Keyboard,Electronics,4,110,UK
+2423,2024-03-05,1096,Wireless Mouse,Electronics,3,25.5,Singapore
+2424,2024-01-18,1045,Laptop Stand,Accessories,1,40,Singapore
+2425,2024-05-28,1095,USB-C Cable,Accessories,2,12,India
+2426,2024-03-31,1070,USB-C Cable,Accessories,2,12,Singapore
+2427,2024-06-24,1060,Ergonomic Mouse Pad,Accessories,4,18,Australia
+2428,2024-02-16,1018,Gaming Keyboard,Electronics,4,70,India
+2429,2024-03-16,1026,Wireless Mouse,Electronics,2,25.5,India
+2430,2024-03-21,1040,External Hard Drive,Electronics,4,120,Singapore
+2431,2024-05-19,1061,24 inch Monitor,Electronics,1,220,Singapore
+2432,2024-06-14,1025,24 inch Monitor,Electronics,3,220,Singapore
+2433,2024-01-13,1084,USB-C Cable,Accessories,3,12,India
+2434,2024-04-04,1056,Bluetooth Headphones,Electronics,4,95,Germany
+2435,2024-03-27,1024,Desk Lamp,Furniture,4,35,UK
+2436,2024-05-12,1035,Gaming Keyboard,Electronics,4,70,India
+2437,2024-04-20,1078,Office Chair,Furniture,5,150,UK
+2438,2024-03-23,1014,Gaming Keyboard,Electronics,3,70,Australia
+2439,2024-03-16,1040,Desk Lamp,Furniture,5,35,Australia
+2440,2024-04-19,1022,Ergonomic Mouse Pad,Accessories,4,18,UK
+2441,2024-04-24,1006,Ergonomic Mouse Pad,Accessories,3,18,Canada
+2442,2024-04-21,1036,Mechanical Keyboard,Electronics,1,110,India
+2443,2024-06-20,1082,Bluetooth Headphones,Electronics,3,95,Canada
+2444,2024-06-22,1021,Wireless Mouse,Electronics,2,25.5,Singapore
+2445,2024-06-04,1087,Desk Lamp,Furniture,1,35,USA
+2446,2024-01-18,1031,Mechanical Keyboard,Electronics,3,110,UK
+2447,2024-04-08,1073,Wireless Mouse,Electronics,5,25.5,USA
+2448,2024-06-22,1058,USB-C Cable,Accessories,3,12,Germany
+2449,2024-01-20,1074,Office Chair,Furniture,5,150,UK
+2450,2024-04-11,1041,Mechanical Keyboard,Electronics,3,110,USA
+2451,2024-01-30,1004,Ergonomic Mouse Pad,Accessories,2,18,Germany
+2452,2024-05-12,1050,External Hard Drive,Electronics,1,120,UK
+2453,2024-03-07,1091,Desk Lamp,Furniture,2,35,Canada
+2454,2024-03-14,1089,Desk Lamp,Furniture,2,35,India
+2455,2024-02-04,1010,Desk Lamp,Furniture,2,35,Australia
+2456,2024-04-23,1012,Mechanical Keyboard,Electronics,3,110,Australia
+2457,2024-03-29,1091,Gaming Keyboard,Electronics,5,70,Canada
+2458,2024-03-15,1039,Office Chair,Furniture,2,150,Singapore
+2459,2024-04-02,1066,Laptop Stand,Accessories,1,40,USA
+2460,2024-02-05,1031,Desk Lamp,Furniture,1,35,UK
+2461,2024-05-21,1074,USB-C Cable,Accessories,4,12,Singapore
+2462,2024-05-21,1017,Webcam HD,Electronics,1,60,India
+2463,2024-03-20,1051,Ergonomic Mouse Pad,Accessories,4,18,Canada
+2464,2024-04-15,1099,Bluetooth Headphones,Electronics,5,95,India
+2465,2024-02-02,1041,Mechanical Keyboard,Electronics,1,110,Germany
+2466,2024-04-29,1088,External Hard Drive,Electronics,3,120,USA
+2467,2024-05-21,1082,Webcam HD,Electronics,2,60,Singapore
+2468,2024-02-03,1056,External Hard Drive,Electronics,1,120,Singapore
+2469,2024-02-01,1067,Office Chair,Furniture,3,150,USA
+2470,2024-02-11,1042,Ergonomic Mouse Pad,Accessories,2,18,UK
+2471,2024-05-12,1037,Gaming Keyboard,Electronics,3,70,USA
+2472,2024-06-11,1071,24 inch Monitor,Electronics,2,220,Australia
+2473,2024-03-18,1079,External Hard Drive,Electronics,1,120,Canada
+2474,2024-06-13,1022,Webcam HD,Electronics,5,60,USA
+2475,2024-02-13,1085,Webcam HD,Electronics,5,60,UK
+2476,2024-05-24,1006,Wireless Mouse,Electronics,1,25.5,India
+2477,2024-06-13,1099,Webcam HD,Electronics,3,60,Australia
+2478,2024-02-23,1099,Webcam HD,Electronics,4,60,Canada
+2479,2024-06-12,1004,Desk Lamp,Furniture,5,35,UK
+2480,2024-06-13,1039,Desk Lamp,Furniture,2,35,Singapore
+2481,2024-06-24,1052,24 inch Monitor,Electronics,4,220,India
+2482,2024-06-25,1008,Office Chair,Furniture,4,150,Germany
+2483,2024-05-03,1060,Laptop Stand,Accessories,3,40,Canada
+2484,2024-02-06,1041,Ergonomic Mouse Pad,Accessories,3,18,Australia
+2485,2024-03-29,1052,Office Chair,Furniture,3,150,Canada
+2486,2024-05-23,1014,USB-C Cable,Accessories,2,12,Germany
+2487,2024-02-01,1035,Desk Lamp,Furniture,2,35,USA
+2488,2024-01-25,1007,24 inch Monitor,Electronics,4,220,Singapore
+2489,2024-06-06,1054,Laptop Stand,Accessories,2,40,Singapore
+2490,2024-03-24,1074,Ergonomic Mouse Pad,Accessories,3,18,USA
+2491,2024-02-10,1064,External Hard Drive,Electronics,4,120,Germany
+2492,2024-03-19,1064,Wireless Mouse,Electronics,1,25.5,Germany
+2493,2024-05-09,1059,Laptop Stand,Accessories,2,40,Canada
+2494,2024-03-31,1007,Wireless Mouse,Electronics,3,25.5,Germany
+2495,2024-06-01,1084,Mechanical Keyboard,Electronics,4,110,UK
+2496,2024-05-17,1002,Gaming Keyboard,Electronics,4,70,USA
+2497,2024-03-08,1094,USB-C Cable,Accessories,4,12,UK
+2498,2024-01-12,1052,Wireless Mouse,Electronics,5,25.5,Canada
+2499,2024-02-19,1047,External Hard Drive,Electronics,3,120,India
